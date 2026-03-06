@@ -7,7 +7,7 @@
 ### Project 1: Climate Change and Natural Disasters Analysis
 - Description
 In this project, I analyzed the relationship between global temperature anomalies and the frequency of natural disasters using Tableau. I prepared and explored climate datasets, created calculated fields, and built multiple visualizations such as line charts, stacked bars, and dual-axis charts to identify patterns and trends over time.
-- [View full report](
+- [View full report](docs/assets/Climate_Change_Analysis.twbx)
 
 ### Project 2: Data-Driven Insights for Smarter Decisions
 - Description
