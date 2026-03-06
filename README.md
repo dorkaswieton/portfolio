@@ -17,7 +17,7 @@ In this project, I developed an interactive Tableau dashboard to analyze Airbnb 
 ### Project 3: Early Disease Detection
 - Description
 - This project explores how data science can support early diabetes detection by analyzing health indicators such as age, BMI, blood pressure, and lifestyle factors. It proposes a machine learning–based risk prediction system while evaluating data quality, ethical risks, and regulatory requirements in healthcare.
-- [View full report](docs/assets/Early Disease Detection.pdf)
+- [View full report] (docs/assets/Early Disease Detection.pdf) 
 
 
 
