@@ -1,6 +1,6 @@
 # portfolio
 
-# Education
+## Education
 - Tomorrow University: Bachelor of Science in Artificial Intelligence and Sustainable Technologies
 
 ## Projects
